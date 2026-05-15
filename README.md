@@ -4,7 +4,7 @@
 
 ![Langs](https://gh-stats-ruddy.vercel.app/api/langs?user=rafaelp-dev&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelp-dev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelp-dev&show_icons=true&theme=github_dark)
 
 ![Streak](https://gh-stats-ruddy.vercel.app/api/streak?user=rafaelp-dev&theme=dark)
 
