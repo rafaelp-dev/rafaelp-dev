@@ -2,7 +2,7 @@
 
 ![Langs](https://gh-stats-ruddy.vercel.app/api/langs?user=rafaelp-dev&theme=dark)
 
-![Stats](https://gh-stats-ruddy.vercel.app/api/stats?user=rafaelp-devE&theme=dark)
+![Stats](https://gh-stats-ruddy.vercel.app/api/stats?user=rafaelp-dev&theme=dark)
 
 ![Streak](https://gh-stats-ruddy.vercel.app/api/streak?user=rafaelp-dev&theme=dark)
 
