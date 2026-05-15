@@ -2,7 +2,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelp-dev&theme=github-dark)
 
-![Langs](https://gh-stats-ruddy.vercel.app/api/langs?user=rafaelp-dev&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelp-dev&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelp-dev&show_icons=true&theme=github_dark)
 
