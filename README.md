@@ -28,13 +28,13 @@ Atualmente estou construindo projetos para fortalecer minha base em:
 
 ---
 
-## 🔥 Contribuições
+## Contribuições
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelp-dev\&theme=tokyo-night)
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.rafaelp@gmail.com">
