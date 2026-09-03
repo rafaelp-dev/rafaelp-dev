@@ -2,7 +2,7 @@
 
 Me chamo Rafael Pereira Borges.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Back-end usando Java e Spring Boot.
+Sou formado em Análise e Desenvolvimento de Sistemas, atuo com foco em desenvolvimento Back-end usando Java e Spring Boot.
 
 Atualmente estou construindo projetos para fortalecer minha base em:
 
